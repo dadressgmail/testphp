@@ -12,7 +12,7 @@ CTYPE html>
 <form class="greetingForm" action="index.php" method="post">
 <label for="who">Say hello to</label>
 <input type="text" name="who">
-<input type="submit" name="greet" value="Say Hello">
+<input type="submit" name="greet" value="We are Saying Hello">
 </form>
 <? } ?>
 </body>
